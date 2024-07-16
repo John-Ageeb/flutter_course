@@ -23,7 +23,13 @@
 ///Push: to upload latest update or commits from local to remote
 ///
 /// to make commit, we can choose it from toolbar or from Git tap
+///we must add a clear coomit comment
+///the commit will be appear in log: in get tap
+///any modification in code will allow me to make a new commit
+///to revert back to first commit, we can right clidk
 ///
 ///
 ///
 ///
+///
+/// dev test
